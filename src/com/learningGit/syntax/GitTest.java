@@ -1,9 +1,9 @@
 package com.learningGit.syntax;
 
-public class GitInit {
+public class GitTest {
 
 	public static void main(String[] args) {
-		System.out.println("Git init denemesi");
+		System.out.println("Git Test");
 
 	}
 
